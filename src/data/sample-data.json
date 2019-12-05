@@ -1,0 +1,116 @@
+{
+  "companyInfo": {
+    "companyName": "Rutherford Brothers",
+    "companyMotto": "distributed drive e-commerce",
+    "companyEst": "2012-02-27T19:10:20.106Z"
+  },
+  "employees": [{
+    "id": "ddeb9ebb-3b4e-41f3-bc16-9092808f965e",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/borges_marcos/128.jpg",
+    "firstName": "Amber",
+    "lastName": "Rees",
+    "jobTitle": "Customer Response Liaison",
+    "age": 20,
+    "bio": "Accusamus non autem ea. Aut ea voluptas veniam repudiandae. Architecto magni commodi nulla cum incidunt quia repudiandae. Minus sed mollitia voluptatem rem ducimus. Animi rerum nesciunt consequuntur ipsa.",
+    "dateJoined": "2016-10-20T10:37:28.076Z"
+  }, {
+    "id": "2e0c2740-b6ab-45ff-aeac-b5070c025ff9",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/shinze/128.jpg",
+    "firstName": "Isabella",
+    "lastName": "Feeney",
+    "jobTitle": "National Factors Engineer",
+    "age": 29,
+    "bio": "Eveniet ea beatae minima error. Aut fuga non consequuntur. Enim maiores nostrum quia architecto sed sunt ut. Voluptatem qui accusamus facilis alias perferendis totam.",
+    "dateJoined": "2012-06-30T20:08:00.651Z"
+  }, {
+    "id": "2381d57a-0959-4e2d-ad46-8ec377c25a4d",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/jpscribbles/128.jpg",
+    "firstName": "Jasmine",
+    "lastName": "Hartmann",
+    "jobTitle": "Senior Configuration Supervisor",
+    "age": 58,
+    "bio": "Voluptas nobis quod sit accusamus iste aut omnis. Est et sequi molestiae rerum aperiam. Et vero voluptate in debitis voluptatem iure accusamus adipisci fuga. Officia dolorem aut et aliquam labore occaecati magnam rerum. Vel sed rerum accusamus distinctio. Quas dolorem eveniet iure et cumque in voluptates.",
+    "dateJoined": "2018-08-04T08:27:09.744Z"
+  }, {
+    "id": "eb1eb3a6-a958-4893-8262-8b7207f5606c",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/sgaurav_baghel/128.jpg",
+    "firstName": "Thomas",
+    "lastName": "Mann",
+    "jobTitle": "Regional Identity Representative",
+    "age": 44,
+    "bio": "Quia non optio dolore qui ipsum aliquam. Molestiae perspiciatis inventore magni molestiae deserunt ut expedita. Vel ut mollitia consectetur consectetur voluptatum. Est earum deleniti ea natus hic.",
+    "dateJoined": "2015-04-24T19:29:26.873Z"
+  }, {
+    "id": "99293133-742e-4db4-aef3-f9358d59ade7",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/findingjenny/128.jpg",
+    "firstName": "Stephanie",
+    "lastName": "Bosco",
+    "jobTitle": "Central Optimization Facilitator",
+    "age": 26,
+    "bio": "Provident quaerat modi eligendi. Molestiae earum consectetur provident quia laborum. Quia et vel aliquam quas labore. Dolore excepturi molestiae fugiat rerum accusantium sit.",
+    "dateJoined": "2017-01-11T23:11:07.182Z"
+  }, {
+    "id": "4722140f-cb46-4bae-b819-4d74f132a416",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/nastya_mane/128.jpg",
+    "firstName": "Amelie",
+    "lastName": "Nader",
+    "jobTitle": "Legacy Data Orchestrator",
+    "age": 39,
+    "bio": "Sint consequatur consequatur provident ratione perferendis id tempore magnam ut. Nobis exercitationem aut autem rem. Cumque alias fugiat excepturi veritatis blanditiis totam autem occaecati.",
+    "dateJoined": "2018-01-06T06:17:13.313Z"
+  }, {
+    "id": "6886afff-affe-4163-9972-54098d71bffa",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/SULiik/128.jpg",
+    "firstName": "Ethan",
+    "lastName": "Turner",
+    "jobTitle": "Future Brand Liaison",
+    "age": 44,
+    "bio": "Voluptas provident et aut voluptas. Accusantium explicabo et natus temporibus architecto beatae sint. Dolorem possimus sit nobis vitae ullam ut. Voluptatem animi ut occaecati id ea omnis velit. Quasi et possimus. Aperiam at inventore amet quisquam.",
+    "dateJoined": "2017-07-27T13:08:54.665Z"
+  }, {
+    "id": "283939d3-b67f-4e53-9c40-5764c015bb3b",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/charlesrpratt/128.jpg",
+    "firstName": "Jack",
+    "lastName": "Braun",
+    "jobTitle": "District Applications Coordinator",
+    "age": 21,
+    "bio": "Veritatis aut cum sit nihil voluptas recusandae ut facere. Cumque est eos a quos qui provident laboriosam. Adipisci qui a enim voluptate placeat doloribus et. Doloribus repellat qui eius reprehenderit aliquam. Modi dicta at labore. Sit ipsa sunt quis totam occaecati totam nesciunt quidem.",
+    "dateJoined": "2017-03-02T01:11:29.101Z"
+  }, {
+    "id": "3a154a1c-a911-482a-a19d-f6e045b0236b",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/jordyvdboom/128.jpg",
+    "firstName": "Jessica",
+    "lastName": "Davis",
+    "jobTitle": "Regional Usability Liaison",
+    "age": 22,
+    "bio": "Incidunt numquam alias aliquam. Aperiam et qui exercitationem aut qui nemo possimus quaerat ad. Quia hic nostrum explicabo autem nemo. Eius amet magni sit modi beatae.",
+    "dateJoined": "2018-03-20T06:14:09.654Z"
+  }, {
+    "id": "e074ee47-a50f-40c7-af25-919979519723",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/davecraige/128.jpg",
+    "firstName": "Edward",
+    "lastName": "Lockman",
+    "jobTitle": "Lead Program Developer",
+    "age": 50,
+    "bio": "Voluptatum voluptates est tenetur pariatur et culpa maiores impedit. Dolores et est quibusdam magnam nam est est. Fugit rerum minima minus in quia delectus voluptatibus magni aliquam. Est consequatur est consectetur sit molestias vel debitis laudantium autem. Omnis sed reprehenderit nihil amet impedit. Vel nesciunt voluptatibus id sed quia dolores.",
+    "dateJoined": "2019-10-19T02:24:17.855Z"
+  }, {
+    "id": "96da0f73-4172-4eb7-a7ce-e6af6f4a1167",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/wearesavas/128.jpg",
+    "firstName": "Sophia",
+    "lastName": "Corwin",
+    "jobTitle": "Forward Data Executive",
+    "age": 51,
+    "bio": "Illo iure enim soluta dignissimos dolorem dolore. Voluptate maiores et dignissimos nulla rerum sit quo. Nostrum corporis ipsum ex et. Sed explicabo odit et in nemo maiores rerum iste provident. Dolore voluptas alias praesentium qui reiciendis incidunt aliquid perspiciatis.",
+    "dateJoined": "2018-07-15T18:31:47.491Z"
+  }, {
+    "id": "edf764c2-b817-4979-a829-d7aa74b6c16a",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/alagoon/128.jpg",
+    "firstName": "Matthew",
+    "lastName": "Towne",
+    "jobTitle": "Global Metrics Assistant",
+    "age": 35,
+    "bio": "Aut est incidunt voluptatem qui animi libero ut et. Nisi earum ducimus dolorum recusandae blanditiis adipisci ad. Nulla provident qui aut odit error sint iusto magnam aperiam. Similique itaque eum. Odio vitae nihil in qui voluptatem. Possimus magnam qui ut repellendus.",
+    "dateJoined": "2018-11-14T12:28:20.952Z"
+  }]
+}
